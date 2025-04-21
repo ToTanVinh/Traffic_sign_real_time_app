@@ -1,0 +1,7 @@
+.uploaded-image {
+  max-width: max-content; /* Giới hạn chiều rộng tối đa */
+  max-height: 600px; /* Giới hạn chiều cao tối đa */
+  width: auto; /* Để tự động điều chỉnh chiều rộng */
+  height: auto; /* Để tự động điều chỉnh chiều cao */
+  object-fit: contain; /* Để giữ tỷ lệ hình ảnh */
+}
